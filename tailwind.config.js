@@ -6,7 +6,7 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
-  content: ['./layouts/**/*.html', './content/**/*.md'],
+  content: ['./layouts/**/*.html', './content/**/*.md', "./node_modules/flowbite/**/*.js"],
   theme: {
     screens: {
       'xs': '285px',
@@ -23,6 +23,7 @@ module.exports = {
     },
   },
   plugins: [
-    require("@tailwindcss/typography")
+    require("@tailwindcss/typography"),
+    require('flowbite/plugin')
   ],
 }
