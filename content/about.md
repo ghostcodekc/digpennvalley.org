@@ -37,7 +37,7 @@ In its reincarnation, the board of directors has been working tirelessly to reva
 
 # Board Members
 The new board is composed of Penn Valley Dog Park patrons who have a variety of valuable skills and backgrounds.
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
     <div class="h-auto max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <div class="flex justify-end px-4 pt-4">
         <div class="flex flex-col items-center pb-10">
