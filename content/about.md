@@ -10,13 +10,13 @@ DIG is a not-for-profit, charitable organization dedicated to promoting communit
 
 We accomplish this primarily by:
 
-Raising funds and volunteering time to develop the physical structure and overall conditions of the park.
+- Raising funds and volunteering time to develop the physical structure and overall conditions of the park.
 
-Advocating with appropriate governmental officials and other organizations to promote the park’s needs and its patrons’ concerns.
+- Advocating with appropriate governmental officials and other organizations to promote the park’s needs and its patrons’ concerns.
 
-Promoting responsible dog ownership and social engagement through educational, dog-friendly events and volunteer opportunities.
+- Promoting responsible dog ownership and social engagement through educational, dog-friendly events and volunteer opportunities.
 
-Supporting other charitable pet organizations when appropriate. DIG seeks to help everyone find a welcoming place at the dog park - be they human or canine. DIG strives to continually celebrate the diverse community and promote the inclusion of all its members.
+- Supporting other charitable pet organizations when appropriate. DIG seeks to help everyone find a welcoming place at the dog park - be they human or canine. DIG strives to continually celebrate the diverse community and promote the inclusion of all its members.
 <br>
 
 # History Landmark Achievements
