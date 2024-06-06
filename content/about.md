@@ -6,37 +6,39 @@ description:
 featured_image:
 ---
 # Mission
-DIG is a not-for-profit, charitable organization dedicated to promoting community through the care and enhancement of Penn Valley Off-Leash Dog Park in Kansas City, Missouri.
+<p class="text-gray-500 dark:text-gray-400">DIG is a not-for-profit, charitable organization dedicated to promoting community through the care and enhancement of Penn Valley Off-Leash Dog Park in Kansas City, Missouri.</p>
 
-We accomplish this primarily by:
+<p class="text-gray-500 dark:text-gray-400">We accomplish this primarily by:</p>
 
-- Raising funds and volunteering time to develop the physical structure and overall conditions of the park.
+- <p class="text-gray-500 dark:text-gray-400">Raising funds and volunteering time to develop the physical structure and overall conditions of the park.</p>
 
-- Advocating with appropriate governmental officials and other organizations to promote the park’s needs and its patrons’ concerns.
+- <p class="text-gray-500 dark:text-gray-400">Advocating with appropriate governmental officials and other organizations to promote the park’s needs and its patrons’ concerns.</p>
 
-- Promoting responsible dog ownership and social engagement through educational, dog-friendly events and volunteer opportunities.
+- <p class="text-gray-500 dark:text-gray-400">Promoting responsible dog ownership and social engagement through educational, dog-friendly events and volunteer opportunities.</p>
 
-- Supporting other charitable pet organizations when appropriate. DIG seeks to help everyone find a welcoming place at the dog park - be they human or canine. DIG strives to continually celebrate the diverse community and promote the inclusion of all its members.
-<br>
+- <p class="text-gray-500 dark:text-gray-400">Supporting other charitable pet organizations when appropriate. DIG seeks to help everyone find a welcoming place at the dog park - be they human or canine. DIG strives to continually celebrate the diverse community and promote the inclusion of all its members.</p>
+
+<hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
 
 # History Landmark Achievements
-The Dogpark Improvement Group (DIG) is a 501(C)3 non-profit organization created in 2007. DIG’s founders saw great, untapped potential in the Penn Valley Off-Leash Dog Park and came together to create an organization dedicated to its improvement.
 
-Since its inception, DIG has made a number of accomplishments over the years:
-- Raised funds to put in parking lot and expand off-leash area
-- Privately funded construction of the small dog area
-- Hosted several park clean-up days
-- Planted trees
-- Helped support several dog welfare and dog park organizations
-- Hosted dog-friendly community events
+<p class="text-gray-500 dark:text-gray-400">The Dogpark Improvement Group (DIG) is a 501(C)3 non-profit organization created in 2007. DIG’s founders saw great, untapped potential in the Penn Valley Off-Leash Dog Park and came together to create an organization dedicated to its improvement.</a>
+<p class="text-gray-500 dark:text-gray-400">Since its inception, DIG has made a number of accomplishments over the years:</a>
 
-DIG was on hiatus from 2011 to 2019. In May of 2020, Jesi Dang partnered with Jon Lowe, a founding DIG board member, and applied for reinstatement to continue the good work of its founders. Together as president and vice president, Jesi and Jon put together a new board of directors to lead the organization.
+- <p class="text-gray-500 dark:text-gray-400">Raised funds to put in parking lot and expand off-leash area</a>
+- <p class="text-gray-500 dark:text-gray-400">Privately funded construction of the small dog area</a>
+- <p class="text-gray-500 dark:text-gray-400">Hosted several park clean-up days</a>
+- <p class="text-gray-500 dark:text-gray-400">Planted trees</a>
+- <p class="text-gray-500 dark:text-gray-400">Helped support several dog welfare and dog park organizations</a>
+- <p class="text-gray-500 dark:text-gray-400">Hosted dog-friendly community events</a>
 
-In its reincarnation, the board of directors has been working tirelessly to revamp the organization and connect with local government agencies, parks committees, and the community to ensure its effectiveness in representing the Penn Valley Off-Leash Dog Park and its patrons, human and canine alike.
-<br>
+<p class="text-gray-500 dark:text-gray-400">DIG was on hiatus from 2011 to 2019. In May of 2020, Jesi Dang partnered with Jon Lowe, a founding DIG board member, and applied for reinstatement to continue the good work of its founders. Together as president and vice president, Jesi and Jon put together a new board of directors to lead the organization.</a>
+<p class="text-gray-500 dark:text-gray-400">In its reincarnation, the board of directors has been working tirelessly to revamp the organization and connect with local government agencies, parks committees, and the community to ensure its effectiveness in representing the Penn Valley Off-Leash Dog Park and its patrons, human and canine alike.</a>
+
+<hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
 
 # Board Members
-The new board is composed of Penn Valley Dog Park patrons who have a variety of valuable skills and backgrounds.
+<p class="text-gray-500 dark:text-gray-400">The new board is composed of Penn Valley Dog Park patrons who have a variety of valuable skills and backgrounds.</a>
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
     <div class="h-auto max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <div class="flex justify-end px-4 pt-4">

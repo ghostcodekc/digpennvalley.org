@@ -37,7 +37,7 @@ description: Sponsors Page
             <div class="flex flex-col items-center pb-10">
                 <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/sponsors/acehardware.png" alt="Ace Hardware logo"/>
                 <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Ace Hardware</h5>
-                <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Manager: Amber Murfin
+                <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white"><BR>Manager: Amber Murfin<BR><BR>
                 As your local Ace Hardware, we are one of 5,000+ Ace stores locally owned and operated across the globe. But we are not just about numbers. We are about helping neighbors, because each one of our stores is a part of your community. We are all committed to being "the Helpful Place" by offering our customers personal service, quality products and a convenient shopping experience from the local experts who know you best. As the helpful hardware folks in your neighborhood, we promise that helping you is the most important thing we have to do today.</span>
             </div>
         </div>
