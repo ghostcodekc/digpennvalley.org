@@ -12,6 +12,10 @@ tags: [ 'events', 'yappy hour' ]
 ---
 
 
-Don't let August slip away into a moment in time - join us as DIG celebrates 2024's second Yappy Hour! Theme - Eras Tour! 
+Don't let August slip away into a moment in time - join us as DIG celebrates 2024's second Yappy Hour! 
 
-<button><a href="https://www.facebook.com/events/1390416291626344/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22group_featured_unit%22%2C%22surface%22%3A%22group%22%7D]%2C%22ref_notif_type%22%3Anull%7D">Facebook Event</href></button>
+Theme - Eras Tour! 
+
+
+
+<a href="https://www.facebook.com/events/1390416291626344" class="text-white bg-teal-600 focus:ring-4 focus:outline-none focus:ring-[#F7BE38]/50 font-medium rounded-md text-sm px-9 py-5 text-center inline-flex items-center dark:focus:ring-[#F7BE38]/50 me-2 mb-2">RSVP - Facebook Event</a> 

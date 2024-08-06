@@ -53,5 +53,6 @@ We are thrilled to invite you to celebrate two decades of amazing memories at Pe
 
 We can't wait to celebrate with you! Bring your friends, family, and furry companions for an unforgettable evening. See you there!
 
-<button><a href="https://www.facebook.com/events/1469559657005640/">RSVP - Facebook Event</href></button>
+
+<a href="https://www.facebook.com/events/1469559657005640/" class="text-white bg-teal-600 focus:ring-4 focus:outline-none focus:ring-[#F7BE38]/50 font-medium rounded-md text-sm px-9 py-5 text-center inline-flex items-center dark:focus:ring-[#F7BE38]/50 me-2 mb-2">RSVP - Facebook Event</a>
 
