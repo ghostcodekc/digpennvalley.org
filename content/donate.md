@@ -33,11 +33,11 @@ description: Donate page
         <p class="font-light text-gray-400 text-sm md:text-md lg:text-lg mb-10">Cost of maintaining our non-profit status per year. These costs go into legal, registration, licensing, insurance costs, and permit registrations costs</p>
         <div class="flex items-center justify-between mb-8">
         <h6 class="font-light text-gray-400 text-sm md:text-lg">Goals : <span class="font-semibold text-gray-900 text-md md:text-lg">$2000</span></h6>
-        <h6 class="font-light text-gray-400 text-sm md:text-lg">Raised : <span class="font-semibold text-gray-900 text-md md:text-lg">$0</span></h6>
+        <h6 class="font-light text-gray-400 text-sm md:text-lg">Raised : <span class="font-semibold text-gray-900 text-md md:text-lg">$904.42</span></h6>
         </div>
         <div class="hidden md:block lg:flex items-center justify-between mb-8">
             <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-            <div class="bg-blue-600 h-2.5 rounded-full" style="width: 3%"></div>
+            <div class="bg-blue-600 h-2.5 rounded-full" style="width: 31%"></div>
         </div>
         <!-- <p class="font-light text-gray-900 text-md"> 66%</p> -->
         </div>
