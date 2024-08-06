@@ -83,19 +83,9 @@ featured_image:
     <div class="h-auto max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <div class="flex justify-end px-4 pt-4">
         <div class="flex flex-col items-center pb-10">
-            <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Joanna.jpg" alt="Joanna image"/>
-            <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Joanna Shin</h5>
-            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member</span>
-            <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Joanna holds degrees in human biology and mathematics and minored in business. She works as a freelance medical interpreter and helps run her company with her brother buying, renting and managing commercial buildings. Joanna joined DIG to help improve a park that her dog Frye loves so much. She wanted to be in the group that changes others' opinions about the park. When she first adopted her dog Frye she was hesitant to go to PV Dog Park, but she learned quickly that it’s a place that welcomes all dogs and people.</span>
-            </div>
-        </div>
-    </div>
-    <div class="h-auto max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-        <div class="flex justify-end px-4 pt-4">
-        <div class="flex flex-col items-center pb-10">
             <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Ken.jpg" alt="Ken image"/>
             <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Ken Springer</h5>
-            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member</span>
+            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member - Improvement</span>
             <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">After finishing college with a degree in history, Ken pursued a career in carpentry and the building trades. Most recently he was a residential remodeling contractor from which he retired in 2019. He has been a regular visitor, on an almost daily basis, to the Penn Valley Dog Park since it opened in 2004; and has seen and participated in its growth and many changes.</span>
             </div>
         </div>
@@ -105,7 +95,7 @@ featured_image:
         <div class="flex flex-col items-center pb-10">
             <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Bill.jpg" alt="Bill Beggs image"/>
             <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Bill Beggs</h5>
-            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member</span>
+            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member - Liason, Grant Assist</span>
             <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Bill has a B.A. in biology and has been in the concrete and aggregates industry for over 20 years. His knowledge of geology and construction brings a unique perspective to the group. He is also chairperson of the Advisory Committee and a voting member of the Penn Valley Park Conservancy (PVPC).</span>
             </div>
         </div>
@@ -115,7 +105,7 @@ featured_image:
         <div class="flex flex-col items-center pb-10">
             <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Chad.jpg" alt="Chad Stewart image"/>
             <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Chad Stewart</h5>
-            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member</span>
+            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member - Voice of the People</span>
             <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Chad is an attorney at Edelman & Thompson focusing on personal injury claims. He spent 10 years as an assistant city attorney for Kansas City and has a solid understanding of the city’s policies and procedures. Chad was secretary of the Union Hill Neighborhood Association for 11 years and is currently a board member of the Union Cemetery Historical Society. His dogs Balto, Sophie and Rocky love PVDP.</span>
             </div>
         </div>
@@ -123,10 +113,10 @@ featured_image:
     <div class="h-auto max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <div class="flex justify-end px-4 pt-4">
         <div class="flex flex-col items-center pb-10">
-            <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Darla.jpg" alt="Darla Hopper image"/>
-            <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Darla Hopper</h5>
-            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member</span>
-            <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Darla has been a gifted teacher for Kansas City Public Schools since 2012, teaching Elementary Education. She is originally from Arkansas where she taught gifted students in High school, Jr. High, and Elementary. Darla enjoys gardening and genealogy. She has truly enjoyed Kansas City and her pups Mazie and Max love the dog park and try to go every day.</span>
+            <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Ben.jpg" alt="Ben Campbell image"/>
+            <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Ben Campbell</h5>
+            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member - Voice of the People</span>
+            <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Ben is...</span>
             </div>
         </div>
     </div>
@@ -135,7 +125,7 @@ featured_image:
         <div class="flex flex-col items-center pb-10">
             <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Tara.jpg" alt="Tara image"/>
             <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Tara Karaim</h5>
-            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member</span>
+            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member - Event Support</span>
             <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Tara Karaim has a BFA in Art History from the University of Kansas and an MA in Art History from the University of Missouri-Kansas City. She currently works at a nonprofit called ArtsKC as the program manager of grants. Tara joined DIG because of her two dogs Hudson and Humphrey, who love Penn Valley so much. </span>
             </div>
         </div>
@@ -145,8 +135,18 @@ featured_image:
         <div class="flex flex-col items-center pb-10">
             <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Kayla.png" alt="Kayla image"/>
             <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Kayla Curnutte</h5>
-            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member</span>
+            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member - Social Media</span>
             <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Kayla holds a degree in marketing with a sales certificate from Kansas State University. She works in sales as an account manager. Kayla and her dog Paccino have been patrons at PVDP since 2021 when they moved to KCMO. She joined DIG to help with social media. Facebook - DIG Penn Valley Off-Leash Dog Park Instagram - digpennvalley.</span>
+            </div>
+        </div>
+    </div>
+    <div class="h-auto max-w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="flex justify-end px-4 pt-4">
+        <div class="flex flex-col items-center pb-10">
+            <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Andrew.jpg" alt="Andrew Grube image"/>
+            <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Andrew Grube</h5>
+            <span class="text-sm text-gray-500 dark:text-gray-400">Board Member - Social Media</span>
+            <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Andrew is a Site Reliability Engineer with a passion for technology and innovation. Since 2015, he has been a patron at Penn Valley Dog Park, enjoying the outdoors with his corgi, Cipher. His love for technology extends beyond his profession; he also runs the website for Dig Penn Valley, where he explores and shares insights into the local tech community. Whether it's ensuring the reliability of complex systems or exploring the latest tech trends, Andrew thrives on finding solutions that make a difference. </span>
             </div>
         </div>
     </div>
