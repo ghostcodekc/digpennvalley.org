@@ -32,6 +32,7 @@ We are thrilled to invite you to celebrate two decades of amazing memories at Pe
 - 2 Shampoo Samples
 - Butterfly Clips
 - Temporary Tattoos
+
 🛒 Merchandise: Show your support with our exclusive DIG merch:
 - DIG T-shirts
 - DIG Hats
