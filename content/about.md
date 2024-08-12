@@ -146,7 +146,7 @@ featured_image:
             <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Andrew.jpg" alt="Andrew Grube image"/>
             <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Andrew Grube</h5>
             <span class="text-sm text-gray-500 dark:text-gray-400">Board Member - Social Media</span>
-            <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Andrew is a Site Reliability Engineer with a passion for technology and innovation. Since 2015, he has been a patron at Penn Valley Dog Park, enjoying the outdoors with his corgi, Cipher. His love for technology extends beyond his profession; he also runs the website for Dig Penn Valley, where he explores and shares insights into the local tech community. Whether it's ensuring the reliability of complex systems or exploring the latest tech trends, Andrew thrives on finding solutions that make a difference. </span>
+            <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Andrew is a Site Reliability Engineer with a passion for technology and innovation. Since 2015, he has been a patron at Penn Valley Dog Park. He loves to enjoy the outdoors going hiking, swimming, and paddleboarding with his corgi, Cipher. His love for technology extends beyond his profession; he runs the website for Dig Penn Valley, administrates Facebook groups for previous residences, and tries to leave everywhere he goes better than when he found it. Whether it's ensuring the reliability of complex systems or exploring the latest tech trends, Andrew thrives on finding solutions that make a difference. </span>
             </div>
         </div>
     </div>
