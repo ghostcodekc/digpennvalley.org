@@ -116,7 +116,7 @@ featured_image:
             <img class="w-50 h-50 mb-3 rounded-full shadow-lg" src="/board_of_directors/Ben.jpg" alt="Ben Campbell image"/>
             <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Ben Campbell</h5>
             <span class="text-sm text-gray-500 dark:text-gray-400">Board Member - Voice of the People</span>
-            <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Ben is...</span>
+            <span class="mb-1 text-xl pr-3 pl-3 font-light text-gray-900 dark:text-white">Ben is a Software Developer that moved to Kansas City in 2022 and quickly fell in love with the community at Penn Valley Dog Park. His dog Ginger also grew very fond of all the friends she has made there. He joined the Board of DIG in 2023. He is also a Volunteer at 816 Bike collective a few blocks away. He can usually be found either riding bikes around town or hanging out at the PVDP. </span>
             </div>
         </div>
     </div>
