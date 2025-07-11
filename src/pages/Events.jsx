@@ -33,7 +33,7 @@ export const Events = ({ isPreview = false }) => {
                                     <span className="flex items-center"><MapPin className="mr-2 h-5 w-5"/> {event.location}</span>
                                 </div>
                             </div>
-                            {event.event_link && (
+                            <br></br>{event.event_link && (
                                 <a
                                 href={event.event_link}
                                 target="_blank"
